@@ -1,0 +1,11 @@
+.navbar-links-item{
+    margin: 0;
+    padding: 1%;
+    display: inline-block;
+}
+
+.navbar{
+    background-color: white;
+    border-bottom-color: gray;
+    border-bottom-width: 5px;
+}
