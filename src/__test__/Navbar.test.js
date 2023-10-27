@@ -8,5 +8,6 @@ describe("NavBar", () => {
 
     it("renders correctly", () => {
         expect(asFragment()).toMatchSnapshot();
-    })
-})
+    });
+
+});
